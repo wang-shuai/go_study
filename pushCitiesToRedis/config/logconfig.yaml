@@ -1,0 +1,4 @@
+#日志相关
+logpath: ./log/
+logname: pushcity.log
+loglevel: 4

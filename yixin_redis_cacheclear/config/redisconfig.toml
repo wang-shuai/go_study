@@ -1,0 +1,5 @@
+# redis connection
+#address="192.168.145.3:6379"
+address="localhost:10001"
+maxidle=3
+idletimeout=240

@@ -1,0 +1,7 @@
+email:
+  from: testtest@126.com
+  to: wangshuai@yxqiche.com
+  host: smtp.126.com
+  port: 25
+  username: testtest@126.com
+  password: abcdef

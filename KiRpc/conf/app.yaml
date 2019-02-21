@@ -1,0 +1,6 @@
+# redis connection
+redis:
+  address: "192.168.145.3:6379"
+  maxidle: 3
+  redismaxactive: 300
+  idletimeout: 240

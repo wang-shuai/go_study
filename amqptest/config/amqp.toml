@@ -1,0 +1,7 @@
+address="amqp://yixincapital:123456@192.168.145.5:5672/yx_mq"
+exchange_name="gp-test-exchange"
+exchange_type="direct"
+durable=true
+autoDelete=false
+queue_name="gp-test-queue"
+routing_key="gp-test-queue"

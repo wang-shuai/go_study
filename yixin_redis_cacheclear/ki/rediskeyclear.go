@@ -1,0 +1,7 @@
+package ki
+
+
+
+func clear(){
+
+}
